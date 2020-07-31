@@ -1,6 +1,4 @@
 [![HitCount](http://hits.dwyl.com/d4rk6h05t/dark-sniffer.svg)](http://hits.dwyl.com/d4rk6h05t/dark-sniffer)
-[![HitCount](http://hits.dwyl.com/d4rk6h05t/nano-data-crypt.svg)](http://hits.dwyl.com/d4rk6h05t/nano-data-crypt)
-[![HitCount](http://hits.dwyl.com/d4rk6h05t/nano-db-manager.svg)](http://hits.dwyl.com/d4rk6h05t/nano-db-manager)
 
 ### Hello Friend!
 
